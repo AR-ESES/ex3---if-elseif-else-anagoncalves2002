@@ -30,7 +30,7 @@ if(mouseY < height/2 && mouseX <= width/2) {
 	stroke(230);
 	strokeWeight(2);
 	
-	circle(width / 2, height / 2, height / 4); // circulo sempre ao centro do encrã
+	circle(width / 2, height / 2, height / 4); // circulo sempre ao centro do ecrã
 
 
 }
